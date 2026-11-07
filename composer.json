@@ -1,0 +1,9 @@
+{
+  "name": "elnemer70/hadith-php-takhrij-multi-book",
+  "description": "Automated Hadith Takhrij Cross-Indexer Across Kutub Al-Sittah (مخرّج الأحاديث الآلي في الكتب التسعة ومصادر السنة)",
+  "type": "project",
+  "license": "MIT",
+  "require": {
+    "php": ">=8.1"
+  }
+}
